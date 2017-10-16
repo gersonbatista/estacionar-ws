@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: 
 Implementation-Version: 1
-Built-By: P001241
+Built-By: Kanawati Batista
 Implementation-Vendor-Id: com.br
-Build-Jdk: 1.8.0_112
+Build-Jdk: 1.8.0_144
 Implementation-URL: 
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: SERPRO - Serviￃﾧo Federal de Processamento de D

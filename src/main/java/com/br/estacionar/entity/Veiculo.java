@@ -25,6 +25,8 @@ public class Veiculo implements Serializable {
 
 	@OneToOne
 	private Usuario usuario;
+	
+	public Veiculo() {}
 
 	public Veiculo(String placa, Usuario usuario) {
 		this.placa = placa;
